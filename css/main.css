@@ -180,7 +180,7 @@ bg-image-3 {
 
 /* media-queries */
 
-@media(min-width: 700) {
+@media screen and (min-width: 700px) {
 body {
   display: none;
   }
